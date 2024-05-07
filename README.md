@@ -15,7 +15,7 @@ Follow these steps to install and run the application locally:
 
 2. Navigate to the project directory:
    ```bash
-   cd meeting-scheduler
+   cd Realtime-Rooks
 
 3. Clone the repository:
 
